@@ -47,6 +47,8 @@ the main ingredient if it's something slightly special.
 List of special, categorical tags to use if relevant:
 - `basic`: for basic recipes that aren't meant to be stand alone but are supposed
   to be incorporated in another recipe.
+  
+- `beverage`
 - `breakfast`
 - `dessert`
 - `quick`: for recipes that can be cooked in under ~20 minutes.
